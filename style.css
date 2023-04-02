@@ -1,0 +1,56 @@
+#main-wrapper{
+	width:500px;
+	margin: 0 auto;
+	background: #f7b32d;
+	padding:5px;
+	border-radius:10px;
+	border: 2px solid #95a5a6;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+
+.inputvalues{
+	width:435px;
+	margin:5px auto;
+	padding:5px;
+}
+
+#signup{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:#2956B2;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#login{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:#2956B2;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#delete_btn{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:#2956B2;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
